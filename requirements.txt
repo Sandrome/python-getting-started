@@ -2,4 +2,4 @@ django
 gunicorn
 django-heroku
 django-sslify>=0.2.0
-numpy
+numpy==1.20.0
